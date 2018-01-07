@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2013\Projects\SendMail\SendMail\bin\Debug\SendMail.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\SendMail\SendMail\bin\Debug\SendMail.exe
+c:\users\asus\documents\visual studio 2013\Projects\SendMail\SendMail\bin\Debug\SendMail.pdb
+c:\users\asus\documents\visual studio 2013\Projects\SendMail\SendMail\obj\Debug\SendMail.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\SendMail\SendMail\obj\Debug\SendMail.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\SendMail\SendMail\obj\Debug\SendMail.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\SendMail\SendMail\obj\Debug\SendMail.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\SendMail\SendMail\obj\Debug\SendMail.exe
+c:\users\asus\documents\visual studio 2013\Projects\SendMail\SendMail\obj\Debug\SendMail.pdb
